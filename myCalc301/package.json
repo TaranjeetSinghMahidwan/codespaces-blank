@@ -1,0 +1,11 @@
+{
+  "name": "mycalc301",
+  "version": "1.0.0",
+  "description": "this will perform arithmetic operations on two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J0hnD0e",
+  "license": "ISC"
+}
